@@ -18,5 +18,16 @@
     <ClCompile Include="gif_rainbowify.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="frame_iterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="frame_iterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gif_rainbowify.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

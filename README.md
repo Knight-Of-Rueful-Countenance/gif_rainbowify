@@ -1,4 +1,4 @@
-# gif_rainbowify
+# gif_rainbowify [UNFINISHED]
 
 Imagemagick based command line solution to add animated rainbow effects to gifs
 
